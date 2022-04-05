@@ -1,0 +1,31 @@
+2022-03-17 18:43:42,095 :INFO : test_signup : Click on Create an account button
+2022-03-17 18:43:45,190 :INFO : test_signup : Click on Click on Continue Button
+2022-03-17 18:43:45,787 :INFO : test_signup : Verify email validation
+2022-03-17 18:58:07,011 :INFO : test_signup : Click on Create an account button
+2022-03-17 18:58:09,882 :INFO : test_signup : Click on Click on Continue Button
+2022-03-17 18:58:10,265 :INFO : test_signup : Verify email validation
+2022-03-17 19:00:29,421 :INFO : test_signup : Click on Create an account button
+2022-03-17 19:00:32,340 :INFO : test_signup : Click on Click on Continue Button
+2022-03-17 19:00:32,713 :INFO : test_signup : Verify email validation
+2022-03-17 19:11:55,409 :INFO : test_signup : Click on Create an account button
+2022-03-17 19:11:58,364 :INFO : test_signup : Click on Click on Continue Button
+2022-03-17 19:11:58,790 :INFO : test_signup : Verify email validation
+2022-03-24 12:48:17,260 :INFO : test_signup : Click on Create an account button
+2022-03-24 12:48:19,873 :INFO : test_signup : Click on Click on Continue Button
+2022-03-24 12:48:20,121 :INFO : test_signup : Verify email validation
+2022-03-24 15:31:26,989 :INFO : test_signup : Click on Create an account button
+2022-03-24 15:31:30,097 :INFO : test_signup : Click on Click on Continue Button
+2022-03-24 15:31:30,495 :INFO : test_signup : Verify email validation
+2022-03-24 15:37:53,057 :INFO : test_signup : Click on Create an account button
+2022-03-24 15:37:56,131 :INFO : test_signup : Click on Click on Continue Button
+2022-03-24 15:37:56,566 :INFO : test_signup : Verify email validation
+2022-03-25 11:15:24,938 :INFO : test_signup : Click on Create an account button
+2022-03-25 11:15:27,880 :INFO : test_signup : Click on Click on Continue Button
+2022-03-25 11:15:28,252 :INFO : test_signup : Verify email validation
+2022-03-25 11:25:53,358 :INFO : test_signup : Click on Create an account button
+2022-03-25 11:25:56,393 :INFO : test_signup : Click on Click on Continue Button
+2022-03-25 11:25:56,842 :INFO : test_signup : Verify email validation
+2022-03-25 11:29:02,089 :INFO : test_signup : Click on Create an account button
+2022-03-25 11:29:04,937 :INFO : test_signup : Click on Click on Continue Button
+2022-03-25 11:29:05,302 :INFO : test_signup : Verify email validation
+2022-03-31 08:34:45,107 :INFO : test_verifycustomersupport : Someone will get back to you soon
